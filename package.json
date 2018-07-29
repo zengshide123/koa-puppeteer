@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
+    "puppeteer": "^1.6.1"
+  },
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
